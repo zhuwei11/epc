@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h2>充值结果</h2>
-<span>单次充值:${result}</span>
+<span>单次充值:${balance}</span>
 
 </body>
 </html>

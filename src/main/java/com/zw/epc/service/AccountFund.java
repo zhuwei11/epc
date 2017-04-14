@@ -14,6 +14,8 @@ public interface AccountFund {
 
 	
 	public Result recharge(int tenantId, int memberId, int rechargeId);
+	
+	public Result withdraw(int tenantId, int memberId);
 
 
 }
